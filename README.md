@@ -46,7 +46,7 @@ I have a growth mindset, which allows me to adapt to different challenges and en
 
 ## 📊 Current Projects
 
-I am actively working on projects that strengthen my understanding of **object-oriented programming**, **data structures**, and **web development** using **Flask** and **Spring Boot**. Check out my repositories below!
+I am actively working on projects that strengthen my understanding of **object-oriented programming**, **data structures**, and **web development**. Check out my repositories below!
 
 ---
 
