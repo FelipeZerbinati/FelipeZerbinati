@@ -1,6 +1,6 @@
 # Felipe Zerbinati Coelho
 
-**Software Engineering Student | Passionate about Technology and Continuous Learning**
+**Software Development Student | Passionate about Technology and Continuous Learning**
 
 - 📍 **Location**: Campinas, São Paulo, Brazil  
 - 🎓 **Education**: Bachelor’s in Software Engineering (Expected Graduation: Dec 2027)  
