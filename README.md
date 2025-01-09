@@ -3,7 +3,7 @@
 **Software Development Student | Passionate about Technology and Continuous Learning**
 
 - 📍 **Location**: Campinas, São Paulo, Brazil  
-- 🎓 **Education**: Bachelor’s in Software Engineering (Expected Graduation: Undefined) and Associate Degree in Systems Analysis and Development (Expected graduation: 2027)
+- 🎓 **Education**: Associate Degree in Systems Analysis and Development (Expected graduation: 2027) and Bachelor’s in Software Engineering (Expected Graduation: Undefined)
 - 📧 **Email**: fezerba@gmail.com  
 - 📞 **Phone**: +55 (19) 99859-0306  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/felipe-coelho-5aa8a9279/)
@@ -25,13 +25,13 @@ I have a growth mindset, which allows me to adapt to different challenges and en
 
 ## 📚 Education
 
+- **Associate Degree in Systems Analysis and Development**  
+  *University*: Universidade São Francisco (USF)
+  *Expected Graduation*: 2027
+
 - **Bachelor’s in Software Engineering**  
   *University*: Pontifícia Universidade Católica de Campinas (PUC-Campinas)
   *Expected Graduation*: Undefined
-
-- **Associate Degree in Systems Analysis and Development**
-- *University*: Universidade São Francisco (USF)
-  *Expected Graduation*: 2027
 
 - **Technical Degree in Electronics**   
   *School*: ETEC Bento Quirino 
