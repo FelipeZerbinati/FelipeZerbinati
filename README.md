@@ -27,7 +27,11 @@ I have a growth mindset, which allows me to adapt to different challenges and en
 
 - **Bachelor’s in Software Engineering**  
   *University*: Pontifícia Universidade Católica de Campinas (PUC-Campinas)
-  *Expected Graduation*: December 2027
+  *Expected Graduation*: Undefined
+
+- **Associate Degree in Systems Analysis and Development**
+- *University*: Universidade São Francisco (USF)
+  *Expected Graduation*: 2027
 
 - **Technical Degree in Electronics**   
   *School*: ETEC Bento Quirino 
