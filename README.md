@@ -3,7 +3,7 @@
 **Software Development Student | Passionate about Technology and Continuous Learning**
 
 - 📍 **Location**: Campinas, São Paulo, Brazil  
-- 🎓 **Education**: Associate Degree in Systems Analysis and Development (Expected graduation: 2027) and Bachelor’s in Software Engineering (Expected Graduation: Undefined)
+- 🎓 **Education**: Systems Analysis and Development (Expected graduation: 2027)
 - 📧 **Email**: fezerba@gmail.com  
 - 📞 **Phone**: +55 (19) 99859-0306  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/felipe-coelho-5aa8a9279/)
@@ -19,19 +19,15 @@ I have a growth mindset, which allows me to adapt to different challenges and en
 ## 🛠 Skills
 
 - **Languages**: Python, C#, Java  
-- **Frameworks**: Flask, Spring Boot (beginner)  
-- **Databases**: Oracle, SQLite (beginner), MongoDB (beginner)
+- **Frameworks**: Flask, Spring Boot  
+- **Databases**: Oracle, SQLite, MongoDB
 - **Soft Skills**: Good interpersonal skills, flexibility, and emotional intelligence
 
 ## 📚 Education
 
-- **Associate Degree in Systems Analysis and Development**  
+- **Systems Analysis and Development**  
   *University*: Universidade São Francisco (USF)
   *Expected Graduation*: 2027
-
-- **Bachelor’s in Software Engineering**  
-  *University*: Pontifícia Universidade Católica de Campinas (PUC-Campinas)
-  *Expected Graduation*: Undefined
 
 - **Technical Degree in Electronics**   
   *School*: ETEC Bento Quirino 
@@ -43,16 +39,9 @@ I have a growth mindset, which allows me to adapt to different challenges and en
 
 ## 🤝 Volunteer Experience
 
-- **Centro de Orientação Familiar** (Feb 2024 - Present)  
+- **Centro de Orientação Familiar** (Feb 2024 - Apr 2024)  
   Helped organize food collection and donations for families in need.
 
----
-
-## 📊 Current Projects
-
-I am actively working on projects that strengthen my understanding of **object-oriented programming**, **data structures**, and **web development**. Check out my repositories below!
-
----
 
 Feel free to connect with me or check out my repositories to see more of what I’m working on.  
 I’m always open to learning new things and collaborating on interesting projects!
