@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I am a dedicated **Software Development student** with a background in **Electronics**, and I am currently seeking opportunities to gain practical experience and further develop my skills in software development. I am passionate about technology, enjoy solving complex problems, and believe in continuous learning and self-improvement. 
+I am a dedicated **Software Development student**, and I am currently seeking opportunities to gain practical experience and further develop my skills in software development. I am passionate about technology, enjoy solving complex problems, and believe in continuous learning and self-improvement. 
 
 I have a growth mindset, which allows me to adapt to different challenges and environments. My ability to collaborate effectively and my proactive attitude help me contribute meaningfully to any team I am a part of.
 
