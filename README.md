@@ -6,7 +6,7 @@
 - 🎓 **Education**: Systems Analysis and Development (Expected graduation: 2027)
 - 📧 **Email**: fezerba@gmail.com  
 - 📞 **Phone**: +55 (19) 99859-0306  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/felipe-coelho-5aa8a9279/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/felipe-zerbinati-5aa8a9279/)
 
 ---
 
